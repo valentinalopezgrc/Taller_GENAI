@@ -63,8 +63,6 @@ python3 ejercicio_1.py
 
 ---
 
-### Ejercicio 1: Concepto de Inferencia en IA
-
 ![Ejercicio 1](Ejercicio%201.png)
 
 
@@ -98,7 +96,11 @@ Luego ingresar:
 
 ---
 
+Ejercicio con Resumir
+
 ![Resumen Ejecutivo](Ejercicio%202%20-%20Resumen%20Ejecutivo.png)
+
+Ejercicio con Profesionalizar
 
 ![Texto formal](Ejercicio%202%20-%20Texto%20formal.png)
 
