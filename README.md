@@ -65,7 +65,7 @@ python3 ejercicio_1.py
 
 ### Ejercicio 1: Concepto de Inferencia en IA
 
-![Ejercicio 1](Ejercicio 1.png)
+![Ejercicio 1](Ejercicio%201.png)
 
 
 ## Ejercicio 2: Procesador de Textos Inteligente
@@ -98,8 +98,10 @@ Luego ingresar:
 
 ---
 
-![Ejercicio 2](EEjercicio 2 - Resumen Ejecutivo.png)
-![Ejercicio 2](Ejercicio 2 - Texto formal.png)
+![Resumen Ejecutivo](Ejercicio%202%20-%20Resumen%20Ejecutivo.png)
+
+![Texto formal](Ejercicio%202%20-%20Texto%20formal.png)
+
 ## Ejercicio 3: Chat de Soporte con Historial (Few-Shot)
 
 **Script:** `ejercicio_3.py`
@@ -126,7 +128,8 @@ python3 ejercicio_3.py
 
 ---
 
-![Ejercicio 3](EEjercicio 3.png)
+![Ejercicio 3](Ejercicio%203.png)
+
 ## Autor
 
 Laura Valentina López García  
